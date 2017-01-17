@@ -1,0 +1,1 @@
+# reduced_aa_alphabets_project
